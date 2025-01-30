@@ -51,3 +51,5 @@ hi
 
 
 idk what to say
+if you wanna do it online go to this google colab ig: https://colab.research.google.com/drive/1-oiR447iAdl9fmMMEwGKs3hMQhzr2gD0?usp=sharing
+
